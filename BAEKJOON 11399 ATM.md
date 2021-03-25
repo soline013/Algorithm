@@ -1,7 +1,7 @@
 # BAEKJOON 11399 ATM.
 [11399번: ATM](https://www.acmicpc.net/problem/11399)
 
-### Code.
+## Code.
 
 ```python
 people = int(input())
@@ -20,7 +20,7 @@ print(sum2)
 
 for문에 List를 사용할 수 있다는 걸 잊지 말자.
 
-### Another Code.
+## Another Code.
 
 ```python
 import sys
@@ -38,7 +38,7 @@ print(sum2)
 
 `input()` 대신 `sys.stdin.readline()`을 사용한다.
 
-### Greedy Algorithm.
+## Greedy Algorithm.
 
 근사치 추정을 위한 알고리즘으로, 최적의 해에 가까운 값을 구한다.
 
