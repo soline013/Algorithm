@@ -1,5 +1,9 @@
 # 프로그래머스 Level 1 서울에서 김서방 찾기.
 
+[코딩테스트 연습 - 서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+
+연습문제
+
 ## Code.
 
 ```python
