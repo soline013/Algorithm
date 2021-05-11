@@ -1,6 +1,8 @@
 # BAEKJOON 11399 ATM.
 [11399번: ATM](https://www.acmicpc.net/problem/11399)
 
+정렬, 그리디 알고리즘
+
 ## Code.
 
 ```python
