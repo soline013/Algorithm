@@ -1,0 +1,1 @@
+# LeetCode Easy 1. Two Sum.
